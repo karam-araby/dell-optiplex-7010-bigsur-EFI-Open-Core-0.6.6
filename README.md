@@ -1,0 +1,1 @@
+# dell-optiplex-7010-bigsur-EFI-Open-Core-0.6.6
